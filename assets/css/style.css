@@ -1,9 +1,7 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------------------------------
     Template Name: RevelTek
-    Template URI: https://webtend.net/demo/html/finsa/
-    Author: WebTend
-    Author URI:  https://webtend.net/
+    Template URI: webtend finsa
     Version: 1.0
 
     Note: This is Main Style Scss File. 
@@ -54,6 +52,11 @@ body {
   overflow-x: hidden;
   font-size: 18px;
   line-height: 1.8;
+  /* ====== ADDED BY REVELTEK */
+  max-width: 1920px;
+  margin: 0 auto;
+  background: #fff; /* Fills the page */
+  position: relative; /* Fix for absolute positioning */
 }
 @media (max-width: 575px) {
   body {
@@ -1113,6 +1116,11 @@ header.sticky-header.sticky-on .header-nav {
   -webkit-animation: sticky 1.2s;
           animation: sticky 1.2s;
   background-color: #fff;
+  /* ====== ADDED BY REVELTEK */
+  max-width: 1920px;
+  margin: 0 auto;
+  background: #fff; /* Fills the page */
+
 }
 header.sticky-header.sticky-on .header-nav .nav-container .menu-items ul li a {
   line-height: 100px;
