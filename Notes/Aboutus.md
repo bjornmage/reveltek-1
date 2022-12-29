@@ -1,0 +1,6 @@
+# [Our consulting approach](https://www.horvath-partners.com/en/about-us/approach-to-consulting)
+# [What we believe](https://www.bain.com/about/what-we-believe/)
+# [Our culture](https://home.kpmg/pk/en/home/about/overview/values-culture.html)
+# [Our values](https://www.kearney.com/why-were-different/about-kearney/our-culture-and-values)
+# [Our success stories](https://www.gartner.com/en/customer-success-stories)
+# [History of our firm](https://www.mckinsey.com/about-us/overview/history-of-our-firm)
