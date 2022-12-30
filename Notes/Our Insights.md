@@ -7,3 +7,8 @@
 # [Diversity, equity, and inclusion](https://www.slalom.com/who-we-are/diversity-and-inclusion)
 
 # [Hybrid workplace](https://www.accenture.com/us-en/insightsnew/future-workforce-index)
+# Implementation and Deployment
+# Federal edge solutions
+# Power of intention
+# The 5 Kinetic Rules of creative leadership
+# Resilience
