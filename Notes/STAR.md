@@ -21,6 +21,10 @@ After getting approval for market research analysis on how Reveltek can create a
 * Once the titles of Drop down menu are approved, start research on referral pages of dropdown menu.
 
 ### ASSIST: 
+The best tools available for doing research is openai.com where you can use chatGPT for all research you want to do anytask, 
+This AI platform will help you to give content with restricted word count also
+We have some competitive analysis and market research here for understanding what are the services we can provide as a Tech Consulting Firm.
+
 * https://www.lek.com/capabilities/organization-performance
 Go through given below link to have a better understanding of what organizational startegy consulting firm do.
 * https://www.lek.com/capabilities/strategy
@@ -36,4 +40,5 @@ Go through this links to have a better understanding of how what a HR consulting
 * https://www.consulting.us/consulting-industry/hr-consulting
 
 ### REACH:
-This research can be done in a collaborative environement where you can contribute individually by saving you markdown (.md) files in Notes Folder of Repo.
+Our MVP is to make this website professional with authentic content having all services included with proper description and subpages should also be having relevant titles and content, Update contact information including email address and contact number.
+This research can be done in a collaborative environement where you can contribute individually by saving you markdown (.md) files in Notes Folder of Repo process to save research notes is already decribed above in TRACK
