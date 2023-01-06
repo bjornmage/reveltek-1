@@ -27,3 +27,12 @@
 - Market research services
 - Appraisal (except real estate) services
 - Patent marketing services
+
+# SIN code# 518210C
+- Cloud Engineer - $114.86
+- Cloud Infrastructure Engineer II - $ 132.09
+- Cloud Applications Consultant Sr. - $ 117.25
+- Cloud System’s Architect - $ 138.79
+- planning, coordination, and implementation of the organization’s cloud information security program
+
+![Cloud service sales](https://gsa.federalschedules.com/wp-content/uploads/2016/08/GSA-Cloud-Services-Sales-SIN-132-40.png)
