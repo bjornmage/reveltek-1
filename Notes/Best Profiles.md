@@ -12,3 +12,11 @@
 - [Samim](https://github.com/SamimSadeed)
 - [Remy](https://github.com/Remy-Reveltek)
 
+## Other's employees profiles that are not participants
+- [Lema](https://github.com/LemaMosadeq)
+- [Marmar](https://github.com/Marmar-RevelTek)
+- [Tasmia](https://github.com/tasmia-zahra)
+- [Fajar Tariq](https://github.com/Ftkhan717)
+- [Hira](https://github.com/HiraBZ)
+- [Zary](https://github.com/Zaryabayub)
+- [Aini](https://github.com/Aini-Bashir)
