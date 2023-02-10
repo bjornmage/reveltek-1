@@ -20,3 +20,10 @@ classDiagram
           +run()
       }
 ```
+
+```mermaid
+pie
+"AI" : 50
+"Tech" : 30
+"Consulting" : 20
+```
