@@ -1,12 +1,22 @@
 ```mermaid
-sequenceDiagram
-    participant dotcom
-    participant iframe
-    participant viewscreen
-    dotcom->>iframe: loads html w/ iframe url
-    iframe->>viewscreen: request template
-    viewscreen->>iframe: html & javascript
-    iframe->>dotcom: iframe ready
-    dotcom->>iframe: set mermaid data on iframe
-    iframe->>iframe: render mermaid
+classDiagram
+      RevelTek <|-- AI
+      RevelTek <|-- Tech Consulting
+      RevelTek <|-- Innovation
+      RevelTek : Startup Company
+      RevelTek : Bootstrapped
+      RevelTek: NAICS 541511
+      RevelTek: NAICS 541611
+      class AI{
+          Make AI Personas
+          Consult Clients in AI
+      }
+      class Tech Consulting{
+          -int sizeInFeet
+          -canEat()
+      }
+      class Innovation{
+          +bool is_wild
+          +run()
+      }
 ```
