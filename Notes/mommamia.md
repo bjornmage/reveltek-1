@@ -12,7 +12,7 @@ We currently only have an idea of this concept.  We need to make a business plan
 Currently, we should focus on the business plan.
 
 ### Assist
-Momma Mia and the 3 grannies will start writing the business plan.  They will write 2 pages per day until the 30 page business plan is complete.  They hope at this rate, they can have the entire business plan finished in 2 weeks time.
+Momma Mia will bake goodies for the 3 grannies who will in turn start writing the business plan.  They will write 2 pages per day until the 30 page business plan is complete.  They hope at this rate, they can have the entire business plan finished in 2 weeks time.
 
 ### Reach
 Once the business plan is complete, they can present it to Momma Mia's wealthy husband. If he likes it and approves of it, he will give them plenty of startup money to go ahead and remodel the kitchen and to start testing out on some treats.  The only reach we are expecting at this stage is to give the business plan to some of our family & friends in the hopes they will invest in Momma Mia's dream.
