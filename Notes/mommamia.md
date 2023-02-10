@@ -4,6 +4,8 @@
 Mia has always dreamed of making cupcakes and cute wedding treats.  She has lots of friends who are getting married and the grannies around her all know how to cook the best foods you could ever imagine.
 Mia wants to be known as Momma Mia and open a bakery that caters events, specifically weddings.  There is already a business down the street called Willy's Weddings & Willy's will be Momma Mia's main competition. 
 We will make sure to have more fresh ingredients and only mothers working in our kitchen for women empowerment.
+Mia doesn't have very much money, but her husband does and so do his friends.
+Mia cannot read and only speaks Urdu.
 
 ### Track
 We currently only have an idea of this concept.  We need to make a business plan and organize our kitchen and also we need to get magical recipes that customers will love.
