@@ -32,9 +32,15 @@ Inside Job description we have 5 different files named
 5. Executive Director
 
 We already have 5 word files present inside the folder Job Description which is explaining all the roles/responsibilities of each title. 
-Issue # Go through Business Development Apprentice and compare Reveltek Business Development Apprentice with that of other companies Business Development Apprentice. Look at Business Development Apprentics responsibilities and give analysis on what is missing in the responsibilities inside our title.
-Issue # Go through Business Development Associate document/file of RevelTek and compare Reveltek Business Development Associate with that of other companies Business Development Associates. Look at Business Development Associate responsibilities and give analysis on what is missing in the responsibilities inside our title.
-Issue # Go through Business Development officer document/file of RevelTek and compare Reveltek Business Development officer role/responsibilities with that of other companies Business Development Officer. Look at Business Development officer responsibilities and give analysis on what is missing in the responsibilities inside our title
+
+### Issue # 
+Go through Business Development Apprentice and compare Reveltek Business Development Apprentice with that of other companies Business Development Apprentice. Look at Business Development Apprentics responsibilities and give analysis on what is missing in the responsibilities inside our title.
+
+### Issue # 
+Go through Business Development Associate document/file of RevelTek and compare Reveltek Business Development Associate with that of other companies Business Development Associates. Look at Business Development Associate responsibilities and give analysis on what is missing in the responsibilities inside our title.
+
+### Issue # 
+Go through Business Development officer document/file of RevelTek and compare Reveltek Business Development officer role/responsibilities with that of other companies Business Development Officer. Look at Business Development officer responsibilities and give analysis on what is missing in the responsibilities inside our title
 Issue # Go through Business Development Director document/file of RevelTek and compare Reveltek Business Development Director role/responsibilities with that of other companies Business Development Director. Look at Business Development Director responsibilities and give analysis on what is missing in the responsibilities inside our title
 Issue # Go through Executive Director document/file of RevelTek and compare Reveltek Executive Director role/responsibilities with that of other companies Executive Director. Look Executive Director responsibilities and give analysis on what is missing in the responsibilities inside our title
 
