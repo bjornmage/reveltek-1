@@ -5,7 +5,13 @@ FOLLOWING ARE THE FILE STONES FOR THE PROJECT CANDITATE APPLICATION PROGRAM
 3. IMPROVE FILE 2 JOB DESCRIPTION
 4. IMPROVE 
 
-Milestones
+**Canditate application program**
+
+If "candidate application program" is used to refer to a hiring, recruiting, and onboarding program, then it would typically be a software system or application used by organizations to manage the process of attracting, evaluating, and selecting candidates for job openings. This type of program may include features such as job posting and applicant tracking, resume screening and parsing, scheduling and conducting interviews, and managing new hire paperwork and onboarding processes. The goal of a candidate application program in this context would be to streamline and optimize the hiring process, making it more efficient, effective, and data-driven.
+
+
+**Milestones**
+
 1. Introduction to RevelTek
 2. Job Description
 3. Training Manual
@@ -56,4 +62,4 @@ Go through the document 'Training Manual" and give comparison analysis of "Revel
 This issue should talk about what changes can be made to bring in good change in the document.
 
 
-If "candidate application program" is used to refer to a hiring, recruiting, and onboarding program, then it would typically be a software system or application used by organizations to manage the process of attracting, evaluating, and selecting candidates for job openings. This type of program may include features such as job posting and applicant tracking, resume screening and parsing, scheduling and conducting interviews, and managing new hire paperwork and onboarding processes. The goal of a candidate application program in this context would be to streamline and optimize the hiring process, making it more efficient, effective, and data-driven.
+
