@@ -56,10 +56,13 @@ Go through Business Development Director document/file of RevelTek and compare R
 ### Issue No.
 Go through Executive Director document/file of RevelTek and compare Reveltek Executive Director role/responsibilities with that of other companies Executive Director. Look Executive Director responsibilities and give analysis on what is missing in the responsibilities inside our title
 
-### Milestone "Training Manual"
+### 3. Milestone "Training Manual"
 ### Issue No. 
 Go through the document 'Training Manual" and give comparison analysis of "Reveltek.com/files/training-manual.pdf" with other companies training manual document/pdf/weblinks where they are talking about their company training material and training requirements.
 This issue should talk about what changes can be made to bring in good change in the document.
+
+### 4. Milestone "Interview Prep Guide" 
+An interview prep guide is a document or set of instructions designed to help job candidates prepare for an upcoming job interview. The guide typically contains information on the company and the position, along with tips on how to present oneself in the best possible light during the interview. 
 
 
 
