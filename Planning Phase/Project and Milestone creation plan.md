@@ -64,5 +64,10 @@ This issue should talk about what changes can be made to bring in good change in
 ## 4. Milestone "Interview Prep Guide" 
 An interview prep guide is a document or set of instructions designed to help job candidates prepare for an upcoming job interview. The guide typically contains information on the company and the position, along with tips on how to present oneself in the best possible light during the interview. 
 
+We have two files inside the Milestone/folder inside Interview Prep Guide.
+1. Interview Prep Guide.
+2. Skill Assessment.
+
+Both are word/PDF documents that will help out the applicants or candidates for prepration for the interview.
 
 
