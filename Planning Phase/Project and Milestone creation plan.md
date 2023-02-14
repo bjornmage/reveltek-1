@@ -81,3 +81,6 @@ This issue should talk about what changes can be made to bring in good change in
 ### Issue No. 
 Read the Interview Prep Guide _"Reveltek.com/files/Assessment.pdf"_ and give comparision analysis of this document with other companies skill assessment guides that are document/pdf/weblinks talking about their company prepration guide, material, interview requirements and how they will conduct the skill assessment test during the interviews.
 This issue should talk about what changes can be made to bring in good change in the document.
+
+## 5. Milestone "Skill Assessment"
+Skill assessment of candidates is an essential part of the hiring process. It helps to evaluate the candidate's abilities and knowledge, which are necessary to perform the job duties effectively.
