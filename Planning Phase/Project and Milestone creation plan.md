@@ -78,3 +78,6 @@ Look and search for what can be added in the folder Interview Prep Guide that ca
 Read the Interview Prep Guide _"Reveltek.com/files/prep.pdf"_ and give comparision analysis of this document with other companies interview prepration guides that are document/pdf/weblinks where they are talking about their company prepration guide, material and interview requirements.
 This issue should talk about what changes can be made to bring in good change in the document.
 
+### Issue No. 
+Read the Interview Prep Guide _"Reveltek.com/files/Assessment.pdf"_ and give comparision analysis of this document with other companies skill assessment guides that are document/pdf/weblinks talking about their company prepration guide, material, interview requirements and how they will conduct the skill assessment test during the interviews.
+This issue should talk about what changes can be made to bring in good change in the document.
