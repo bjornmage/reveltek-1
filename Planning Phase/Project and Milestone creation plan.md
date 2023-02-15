@@ -84,3 +84,4 @@ This issue should talk about what changes can be made to bring in good change in
 
 ## 5. Milestone "Skill Assessment"
 Skill assessment of candidates is an essential part of the hiring process. It helps to evaluate the candidate's abilities and knowledge, which are necessary to perform the job duties effectively.
+We have a Excel Spreadsheet that contains different topic/pillars that we want to check/verify/test in candidates applying for job or internship with us. 
